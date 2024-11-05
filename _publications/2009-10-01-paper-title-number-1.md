@@ -6,7 +6,6 @@ permalink: "/publication/2022-11-01-amygdalohippocampal-transition"
 excerpt: "This review discusses the anatomical and molecular features of the amygdalohippocampal transition area and its role in social and emotional behavior."
 date: "2022-11-01"
 venue: "Neurosci Biobehav Rev"
-slidesurl: "http://academicpages.github.io/files/slides1.pdf" # Add the actual slides link if available
 paperurl: "http://academicpages.github.io/files/paper1.pdf" # Add the actual paper link if available
 citation: "Sedwick VM, Autry AE. (2022). 'Anatomical and molecular features of the amygdalohippocampal transition area and its role in social and emotional behavior processes.' <i>Neurosci Biobehav Rev</i>. 142:104893. doi: 10.1016/j.neubiorev.2022.104893."
 
